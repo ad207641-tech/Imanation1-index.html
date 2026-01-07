@@ -8,17 +8,21 @@
 
 <h1>Imianation 2</h1>
 
-<img src="penguins.jpg" alt="Penguins">
-<img src="football.jpg" alt="Football Field">
-<img src="overlay.png" alt="Overlay">
-<img src="dino.png" alt="Dinosaur">
-<img src="seagull.jpg" alt="Seagull">
-<img src="butterfly.jpg" alt="Butterfly">
 
 <div class="presentation">
   <img src="presentation.jpg">
   <span>Presentation</span>
 </div>
+ad207641-tech.github.io
+ └── imanation1
+     ├── index.html
+     ├── penguins.jpg
+     ├── football.jpg
+     ├── overlay.png
+     ├── dinosaur.png
+     ├── seagull.jpg
+     ├── butterfly.jpg
+     └── presentation.jpg
 
 </body>
 </html>
