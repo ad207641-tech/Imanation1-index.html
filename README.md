@@ -1,4 +1,4 @@
-# Imanation1-index.html
+# index.html
 <!DOCTYPE html>
 <html>
 <head>
